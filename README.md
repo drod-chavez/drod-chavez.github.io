@@ -14,3 +14,7 @@ This website and the source code helped me figure out how to add pages that *wer
 3. https://github.com/jekyll/jekyll/wiki/Sites
 
 I found the website from point 2 from the above website. It has a lot of websites using Jekyll, as well as the source code for them so you can explore what all the possibilities are. 
+
+4. https://html.com/wp-content/uploads/html-cheat-sheet.pdf
+
+As I start to write up my web pages, this cheat sheet has been very helpful in figuring out what commands I need to use for what. 
