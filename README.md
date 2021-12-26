@@ -7,4 +7,10 @@ Hello, my name is Dani. As a busy university student, I haven't had time to expl
 
 This website helped me first set up my site, instructing me what original files I need to have and then giving me resources so that I can go off and explore other sites using Jekyll and how to make my site (and skills) better. 
    
-2. 
+2. https://henrik.nyh.se (source code: https://github.com/henrik/henrik.nyh.se)
+
+This website and the source code helped me figure out how to add pages that *weren't* blog posts, since I'm not particularly interested in having a blog. It was also cool to start to understand what the layouts were and how to use the various files to create the style of the page (both font wise and heading/footer wise).
+
+3. https://github.com/jekyll/jekyll/wiki/Sites
+
+I found the website from point 2 from the above website. It has a lot of websites using Jekyll, as well as the source code for them so you can explore what all the possibilities are. 
