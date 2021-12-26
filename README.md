@@ -4,6 +4,7 @@ Hello, my name is Dani. As a busy university student, I haven't had time to expl
 
 ### Resources
 1. http://jmcglone.com/guides/github-pages/
+
 This website helped me first set up my site, instructing me what original files I need to have and then giving me resources so that I can go off and explore other sites using Jekyll and how to make my site (and skills) better. 
    
 2. 
